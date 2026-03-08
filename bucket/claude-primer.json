@@ -1,12 +1,12 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "Prime your repo for Claude Code — context-aware knowledge architecture generator",
   "homepage": "https://github.com/limaronaldo/claude-primer",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/limaronaldo/claude-primer/releases/download/v1.5.0/claude-primer-windows-x86_64.exe",
-      "hash": "8fecca54ca0e0f0cdde132aa9935a6615b24a246dd96ca27df8859e507616edc"
+      "url": "https://github.com/limaronaldo/claude-primer/releases/download/v1.5.1/claude-primer-windows-x86_64.exe",
+      "hash": "ef8ccc94ad9cbb438516d9bdf6b5254c4b0c24ef7f4820211201f296b875baea"
     }
   },
   "bin": [["claude-primer-windows-x86_64.exe", "claude-primer"]],
